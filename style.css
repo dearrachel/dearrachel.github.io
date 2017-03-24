@@ -17,13 +17,13 @@ h1 {
   font-size: 36px;
 }
 
-p {
+.p {
   font-family: helvetica;
   font-size: 11px;
   color: #f1c9d8;
 }
 
-a {
+#content .a {
   display: inline-block;
   margin-right: 25px;
   text-align: center;
