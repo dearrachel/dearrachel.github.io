@@ -1,6 +1,17 @@
+nav {
+  padding: 25px;
+  font-family: 'helvetica', sans-serif;
+  background-color: #f1c9d8;
+}
 
+h1 {
+  float: center;
+  margin-top: 5px;
+  color: f1c9d8;
+  font-size: 36px;
+}
 
- nav {
+a {
   display: inline-block;
   margin-right: 25px;
   text-align: center;
