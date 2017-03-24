@@ -1,29 +1,25 @@
-#navigation {
+#header a {
   padding: 25px;
-  font-family: 'helvetica', sans-serif;
+  font-family: 'arial', sans-serif;
   background-color: white;;
   color: #f1c9d8;
 }
 
-#header {
-  font-family: helvetica;
-  color: #f1c9d8;
-}
-
 h1 {
+  font-family: arial;
   float: center;
   margin-top: 5px;
   color: #f1c9d8;
   font-size: 36px;
 }
 
-.p {
-  font-family: helvetica;
+p {
+  font-family: arial;
   font-size: 11px;
   color: #f1c9d8;
 }
 
-#content .a {
+#content {
   display: inline-block;
   margin-right: 25px;
   text-align: center;
