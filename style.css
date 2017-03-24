@@ -1,7 +1,12 @@
-nav {
+#navigation {
   padding: 25px;
   font-family: 'helvetica', sans-serif;
   background-color: white;;
+  color: #f1c9d8;
+}
+
+#header {
+  font-family: helvetica;
   color: #f1c9d8;
 }
 
@@ -10,6 +15,12 @@ h1 {
   margin-top: 5px;
   color: #f1c9d8;
   font-size: 36px;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 11px;
+  color: #f1c9d8;
 }
 
 a {
